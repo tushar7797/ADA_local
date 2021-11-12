@@ -21,6 +21,13 @@ data analysis with python and NLP
 
 
 ## Proposed timeline :
+- Milestone P2, 12 Nov 2021
+- Week 9
+- Week 10
+- Week 11
+- Week 12
+- Week 13
+- Milestone P3, 17 Dec 2021
 
 ## Organization within the team: 
 
