@@ -8,7 +8,14 @@ Discribing the data with the popular speaker and the urls(news vendor) that prov
 
 Proposed additional datasets (if any): (List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.)
 
-Methods : data analysis with python and NLP
+## Datasets
+- Quotebank data from 2015 to 2020
+- Wikidata with speaker informations
+- Wikidata QIDs with labels and description
+
+## Methods : 
+data analysis with python and NLP
+
 
 Proposed timeline :
 
