@@ -1,5 +1,5 @@
 # ADA_local
-Title : Analysis of the people's popularity and reason for its change during the time
+Title : What's trending in News? A study on the bias of "viral" news
 
 Abstract:  With this dataset, we can get the popularity of a person by watching his number of quotations and the number of occurrences. After having identified the popularity of the people, we can determine why certain person loses or increases his populary during the time. For instance, discovering what event makes a person famous according to the quotations he made last year, and what event made lose popularity. We could analyze the impact on the popularity when a president finish his term or when he begins his term. Or for example to infer when something append (for example: Donald Trump became president) just looking at his popularity variation. So watching the poplarity can give us a lot of informations.
 
