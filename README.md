@@ -13,12 +13,15 @@ Proposed additional datasets (if any): (List the additional dataset(s) you want 
 - Wikidata with speaker informations
 - Wikidata QIDs with labels and description
 
+### How we manage the data
+For the Quotebank data, we load directly with the help of pandas without unpack the files. We load with chunksize because the data is too big to fit in memory. So we need to handle the data by batch and merge the results (by adding in a list and concatenate this list of results to get the results dataframe). For the Wikidata with speaker information and the wikidata QIDs with labels and description datasets, we directly load all the data because there are much smaller than the first one. We merge these two datasets to get the speaker informations directly (without to look the QIDs in the wikidata QIDs dataset). The merge is done in `parse_speaker_attributes.ipynb`.
+
 ## Methods : 
 data analysis with python and NLP
 
 
-Proposed timeline :
+## Proposed timeline :
 
-Organization within the team: 
+## Organization within the team: 
 
 Questions for TAs (optional): 
